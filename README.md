@@ -15,3 +15,4 @@ fix bug2
 doing some work
 finished work2
 user2 modified
+user1 modified
