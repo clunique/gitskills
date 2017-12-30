@@ -8,3 +8,5 @@ change4
 change5
 change6
 fix bug
+do some work
+finished some work
