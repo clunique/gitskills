@@ -11,3 +11,4 @@ fix bug
 do some work
 finished some work
 do debug1
+fix bug2
